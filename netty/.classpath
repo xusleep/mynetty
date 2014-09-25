@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_65"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/easymock-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/easymockclassextension-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/org.osgi.compendium-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/org.osgi.core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/slf4j-simple-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/google-collections-1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhonxu/git/mynetty/netty/lib/jboss-marshalling-1.3.14.GA.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

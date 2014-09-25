@@ -60,6 +60,7 @@ public class EchoServer {
         } else {
             port = 8080;
         }
+        System.out.println("port is " + port);
         new EchoServer(port).run();
     }
 }
